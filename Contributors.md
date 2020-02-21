@@ -12,6 +12,7 @@
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
+- [Rasheed Yusuf](https://github.com/devRashy)
 - [Android](https://github.com/androidtestuser)
 - [ Ken Austria](https://github.com/KenAustria)
 - [Saswat Kar] (https://github.com/skksanchez)
